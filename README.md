@@ -1,3 +1,3 @@
-# TAD_trojan_detection
+# TAD_trojan
 
 Will update soon
